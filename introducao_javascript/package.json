@@ -1,0 +1,14 @@
+{
+  "name": "introducao_javascript",
+  "version": "1.0.0",
+  "description": "Introdução ao JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Leandro Mello",
+  "license": "ISC"
+}
