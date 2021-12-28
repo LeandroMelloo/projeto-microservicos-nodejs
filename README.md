@@ -89,5 +89,16 @@ Com isso abordamos os conceitos de Blocking, Non-blocking e Event-Loop.
 
 Imagine um repositório gigantesco com inúmeras ferramentas de desenvolvimento...esse é o NPM do NodeJS.
 
+# Explorando o Estilo Arquitetural Rest com Node.js
+
+    1° Criar uma pasta para o projeto aonde vai ficar nosso código
+    2° Rodar o comando npm init na linha de comando para guardar nossos metadados, ele cria o package.json
+    3° Criar um arquivo js com o nome index.js, para executar nossos comandos
+    4° Adicionar no package.json o comando start
+    5° Instalar a dependencia com o npm install -g typescript
+    6° Rodar o comando tsc --init para criar um arquivo de configuração do typescript
+    7° Rodar o comando npm run start
+
+
 
 
